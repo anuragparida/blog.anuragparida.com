@@ -1,4 +1,5 @@
 # PowerShell Script for Windows
+# Need a Execution Policy change to run this script
 
 # Set variables for Obsidian to Hugo copy
 $sourcePath = "G:\My Drive\Obsidian\parida\blogposts"
@@ -86,14 +87,14 @@ try {
     exit 1
 }
 
-# Step 4: Build the Hugo site
-Write-Host "Building the Hugo site..."
-try {
-    hugo
-} catch {
-    Write-Error "Hugo build failed."
-    exit 1
-}
+# # Step 4: Build the Hugo site (No because cloudflare pages does it)
+# Write-Host "Building the Hugo site..."
+# try {
+#     hugo
+# } catch {
+#     Write-Error "Hugo build failed."
+#     exit 1
+# }
 
 # Step 5: Add changes to Git
 Write-Host "Staging changes for Git..."
