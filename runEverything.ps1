@@ -88,14 +88,14 @@ try {
     exit 1
 }
 
-# # Step 4: Build the Hugo site (No because cloudflare pages does it)
-# Write-Host "Building the Hugo site..."
-# try {
-#     hugo
-# } catch {
-#     Write-Error "Hugo build failed."
-#     exit 1
-# }
+# Step 4: Build the Hugo site (No because cloudflare pages does it)
+Write-Host "Building the Hugo site..."
+try {
+    hugo
+} catch {
+    Write-Error "Hugo build failed."
+    exit 1
+}
 
 # Step 5: Add changes to Git
 Write-Host "Staging changes for Git..."
