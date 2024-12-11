@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: blog.anuragparida.com/sitemap.xml
+Sitemap: /sitemap.xml
