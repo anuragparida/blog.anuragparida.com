@@ -1,4 +1,5 @@
-baseURL: https://blog-anuragparida-com.pages.dev/
+baseURL: "blog.anuragparida.com"
+relativeURLs: true
 languageCode: en-us
 paginate: 5
 theme: PaperMod
@@ -42,7 +43,7 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"

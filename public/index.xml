@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Anurag Writes</title>
-    <link>https://blog-anuragparida-com.pages.dev/</link>
+    <link>blog.anuragparida.com/</link>
     <description>Recent content on Anurag Writes</description>
     <image>
       <title>Anurag Writes</title>
-      <url>https://blog-anuragparida-com.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog-anuragparida-com.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>blog.anuragparida.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>blog.anuragparida.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://blog-anuragparida-com.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.anuragparida.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Next posttt</title>
-      <link>https://blog-anuragparida-com.pages.dev/posts/is-this-shown-or-the-other-title/</link>
+      <link>blog.anuragparida.com/posts/is-this-shown-or-the-other-title/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://blog-anuragparida-com.pages.dev/posts/is-this-shown-or-the-other-title/</guid>
+      <guid>blog.anuragparida.com/posts/is-this-shown-or-the-other-title/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title></title>
-      <link>https://blog-anuragparida-com.pages.dev/posts/my-first-blog-post/</link>
+      <link>blog.anuragparida.com/posts/my-first-blog-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog-anuragparida-com.pages.dev/posts/my-first-blog-post/</guid>
+      <guid>blog.anuragparida.com/posts/my-first-blog-post/</guid>
       <description>&lt;h1 id=&#34;hello-hello&#34;&gt;HELLO HELLO&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Who that&lt;/li&gt;
