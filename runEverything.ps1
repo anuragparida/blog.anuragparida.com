@@ -1,5 +1,6 @@
 # PowerShell Script for Windows
-# Need a Execution Policy change to run this script
+# Need a Execution Policy change to run this script. (Below)
+# Make a shortcut to - %SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy ByPass -NoExit -command "& {Set-Location D:\Work\WebDevProjects\blog.anuragparida.com\}"
 
 # Set variables for Obsidian to Hugo copy
 $sourcePath = "G:\My Drive\Obsidian\parida\blogposts"
