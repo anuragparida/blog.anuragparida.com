@@ -3,7 +3,7 @@
 A minimal Astro blog template with serif typography, dark mode, RSS, OG images, and optional Giscus comments and
 analytics.
 
-**Live demo:** [Github Pages](https://anjaygoel.github.io/astro-sienna)
+**Live demo:** [Github Pages](https://anjay-goel.github.io/astro-sienna)
 
 ![Astro Sienna home page in dark and light themes](.github/assets/preview.png)
 
@@ -31,7 +31,7 @@ analytics.
 Click **Use this template** on GitHub, or clone directly:
 
 ```sh
-git clone https://github.com/AnjayGoel/astro-sienna.git my-site
+git clone https://github.com/anjay-goel/astro-sienna.git my-site
 cd my-site
 pnpm install
 pnpm dev
@@ -142,7 +142,7 @@ subpath on any other host, build with `BASE_PATH=/sub pnpm build`.
 To keep tracking upstream changes after you've forked, add this repo as a second remote:
 
 ```sh
-git remote add theme https://github.com/AnjayGoel/astro-sienna.git
+git remote add theme https://github.com/anjay-goel/astro-sienna.git
 git fetch theme
 git merge theme/main --allow-unrelated-histories
 ```
