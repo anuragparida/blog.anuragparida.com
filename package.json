@@ -1,7 +1,7 @@
 {
-	"name": "astro-sienna",
-	"version": "0.4.0",
-	"description": "A minimal Astro blog template — serif typography, dark mode, RSS, OG images, optional Giscus comments and analytics.",
+	"name": "blog-anuragparida-com",
+	"version": "1.0.0",
+	"description": "Personal blog at blog.anuragparida.com. Built on the Astro Sienna theme.",
 	"license": "MIT",
 	"private": true,
 	"type": "module",

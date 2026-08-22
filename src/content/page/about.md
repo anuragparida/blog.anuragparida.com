@@ -1,14 +1,12 @@
 ---
 title: About
-description: A short introduction. Replace this in src/content/page/about.md.
+description: Anurag Parida — software engineer working on cloud, data, and AI systems.
 ---
 
-This is the About page. It's a markdown file at `src/content/page/about.md` — edit it freely. The shape is intentionally unstructured so you can write a paragraph, a list, a CV, or whatever fits.
+I'm Anurag, a software engineer at HDI Group in Cologne, working on cloud, data, and AI systems for commercial insurance. Before that I was employee #1 at Zepto (YC S21) and wrote my thesis at Mercedes-Benz on LLM-based search.
 
-A few example bullets to get going:
+This is where I write things down — mostly notes on what I'm building, occasionally something less technical. It's deliberately lower-stakes than a polished blog; expect working notes more than finished essays.
 
-- 👋 One-line intro — what you do, where, since when.
-- 🛠 The tools you reach for first.
-- 📝 What you tend to write about here.
+My portfolio and CV live at [anuragparida.com](https://anuragparida.com).
 
-Find me on [GitHub](https://github.com/example), [LinkedIn](https://www.linkedin.com/in/example/), or by [email](mailto:john@example.com).
+Find me on [GitHub](https://github.com/anuragparida), [LinkedIn](https://www.linkedin.com/in/anuragparida/), or by [email](mailto:hi@anuragparida.com).
